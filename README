@@ -1,0 +1,5 @@
+run './filler_vm' with bot, that will compile after run 'make'
+to see usage filler_vm, just run without parameters
+
+example:
+./filler_vm -f map00 -p1 ./player1 -p2 ./rtulhiy.filler
